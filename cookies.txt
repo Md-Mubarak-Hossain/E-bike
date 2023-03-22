@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.biketours.com	TRUE	/	FALSE	1999999999	biketourss	gduq5b1cgevh11s28dmc6vvblc
+www.biketours.com	TRUE	/	FALSE	1999999999	AWSALB	yIRuAWrGx17D34YUYmhBhJjmxsy/3Lf4tSzEa0IgNsl1hsXIoxFBn3w0rXnkQ3fNi8TMYCxHWPlJwxwyPFtQ/Yq4Nd8rUqHzepvHfNa3mz7WkvwEtr5gij31LLw4
+www.biketours.com	TRUE	/	FALSE	1999999999	AWSALBCORS	yIRuAWrGx17D34YUYmhBhJjmxsy/3Lf4tSzEa0IgNsl1hsXIoxFBn3w0rXnkQ3fNi8TMYCxHWPlJwxwyPFtQ/Yq4Nd8rUqHzepvHfNa3mz7WkvwEtr5gij31LLw4
+www.biketours.com	TRUE	/	FALSE	1999999999	SameSite	None
+
